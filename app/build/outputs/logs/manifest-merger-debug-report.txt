@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e33688aeadf81d6bbdbee592bd140bd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5949658f8688adbcb40b7e1b1c7a26bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\19cf8d61ab141e5566f0693f2460dbd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\09d35614f32d2ea129aff2cd46c4fefb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\781ab9372bf731b9ef51ab698cf39fc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8e9d6c9e102bb103578ec5a4e7038992\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a20668012ebac7a832a380e5f4701abb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d6c9e82d76d6470f595e3eb3dcab4eab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b25cbc6a8ae3989f73fda096042ecf92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e6862f3e4442bd810420479e6cf56a04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47830656089e15507d50e8533fc0e1c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a93f594baef810aa7f7fd5fa16763813\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bb68c094248be823f2523d8f8b5b1cbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1c16e27c05a3fcc19e5e394b67bf636a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4b06587515e7f1bfccb6a39675c7623e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3f1f6da210e5f9489daccd550924e00a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71851b6212fd9f40af8c1d3b61fcf7ce\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1217ba821626781b9c78810eae2ac1c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e427160545c28fb30b9ea9a47a74fb73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5670f2da9110d81a75c1805d8630dd13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\92e187bc9057db7840028782e6d6a1cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f56fc2f8441bcd1104dd9e1f9c2b7171\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a726e044278c26fdf00da1cae64bbb10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\93756fffd43ef3c792d01cc1d34bfbdd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0cad168ca05442860ab7bffe89ee660d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\02069e8cae7736ab0d10711ff40f3f6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ec98cf66c6bc1d3131ad6a79442c80b4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:7:22-78
+permission#android.permission.BLUETOOTH
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:9:5-89
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:9:61-86
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:9:17-60
+permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:10:17-66
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:11:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:12:17-73
+application
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:15:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5949658f8688adbcb40b7e1b1c7a26bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5949658f8688adbcb40b7e1b1c7a26bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3f1f6da210e5f9489daccd550924e00a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3f1f6da210e5f9489daccd550924e00a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71851b6212fd9f40af8c1d3b61fcf7ce\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71851b6212fd9f40af8c1d3b61fcf7ce\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3f1f6da210e5f9489daccd550924e00a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:19:9-36
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:17:9-40
+	android:allowBackup
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.programbots.pb2wheelbot.MainActivity
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.programbots.pb2wheelbot.PBMenu
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:25:19-41
+intent-filter#action:name:com.programbots.pb2wheelbot.PBMenu+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:27:13-30:29
+action#com.programbots.pb2wheelbot.PBMenu
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:28:25-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:29:27-73
+activity#com.programbots.pb2wheelbot.About
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:33:19-40
+intent-filter#action:name:com.programbots.pb2wheelbot.About+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:36:13-39:29
+action#com.programbots.pb2wheelbot.About
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:37:25-73
+activity#com.programbots.pb2wheelbot.SplashActivity
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:theme
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:42:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e33688aeadf81d6bbdbee592bd140bd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e33688aeadf81d6bbdbee592bd140bd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5949658f8688adbcb40b7e1b1c7a26bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5949658f8688adbcb40b7e1b1c7a26bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\19cf8d61ab141e5566f0693f2460dbd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\19cf8d61ab141e5566f0693f2460dbd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\09d35614f32d2ea129aff2cd46c4fefb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\09d35614f32d2ea129aff2cd46c4fefb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\781ab9372bf731b9ef51ab698cf39fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\781ab9372bf731b9ef51ab698cf39fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8e9d6c9e102bb103578ec5a4e7038992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8e9d6c9e102bb103578ec5a4e7038992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a20668012ebac7a832a380e5f4701abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a20668012ebac7a832a380e5f4701abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d6c9e82d76d6470f595e3eb3dcab4eab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d6c9e82d76d6470f595e3eb3dcab4eab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b25cbc6a8ae3989f73fda096042ecf92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b25cbc6a8ae3989f73fda096042ecf92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e6862f3e4442bd810420479e6cf56a04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e6862f3e4442bd810420479e6cf56a04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47830656089e15507d50e8533fc0e1c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47830656089e15507d50e8533fc0e1c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a93f594baef810aa7f7fd5fa16763813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a93f594baef810aa7f7fd5fa16763813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bb68c094248be823f2523d8f8b5b1cbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bb68c094248be823f2523d8f8b5b1cbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1c16e27c05a3fcc19e5e394b67bf636a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1c16e27c05a3fcc19e5e394b67bf636a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4b06587515e7f1bfccb6a39675c7623e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4b06587515e7f1bfccb6a39675c7623e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3f1f6da210e5f9489daccd550924e00a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3f1f6da210e5f9489daccd550924e00a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71851b6212fd9f40af8c1d3b61fcf7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71851b6212fd9f40af8c1d3b61fcf7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1217ba821626781b9c78810eae2ac1c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1217ba821626781b9c78810eae2ac1c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e427160545c28fb30b9ea9a47a74fb73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e427160545c28fb30b9ea9a47a74fb73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5670f2da9110d81a75c1805d8630dd13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\5670f2da9110d81a75c1805d8630dd13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\92e187bc9057db7840028782e6d6a1cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\92e187bc9057db7840028782e6d6a1cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f56fc2f8441bcd1104dd9e1f9c2b7171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f56fc2f8441bcd1104dd9e1f9c2b7171\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a726e044278c26fdf00da1cae64bbb10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a726e044278c26fdf00da1cae64bbb10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\93756fffd43ef3c792d01cc1d34bfbdd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\93756fffd43ef3c792d01cc1d34bfbdd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0cad168ca05442860ab7bffe89ee660d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0cad168ca05442860ab7bffe89ee660d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\02069e8cae7736ab0d10711ff40f3f6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\02069e8cae7736ab0d10711ff40f3f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ec98cf66c6bc1d3131ad6a79442c80b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ec98cf66c6bc1d3131ad6a79442c80b4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\ProgramBots\PB2WheelBot\app\src\main\AndroidManifest.xml
