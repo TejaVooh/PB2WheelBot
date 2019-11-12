@@ -1,10 +1,10 @@
 ### **PB2 WHEEL BOT**
-Android app to control the PB 2 Wheel Bot
-This is the android section of a 3 part activity to build a 2 wheel bot.
+Android app to control the PB 2 Wheel Bot.
+This is the _android code section_ of a 3 part activity to build a 2 wheel arduino-android bot.
 
 **_IMPORTANT_** This code cannot work independently. It works together with the Arduino Code and robot assembly instructions. 
 The source code contains the required permissions for using the bluetooth adapter in Android version 6.0 and above. 
-Once you have compiled the code
+Build the code to generate the apk file. 
 
 ##### To install the apk file successfully.
 
